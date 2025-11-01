@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vemulapativeena&label=Profile%20views&color=0e75b6&style=flat" alt="vemulapativeena" /> </p>
 
-- 🌱 I’m currently learning **Advanced AI tools and mastering developer tools to imprive my expertise in software development and design**
+- 🌱**Computer Science Engineer skilled in problem-solving and passionate about leveraging technology and data-driven approaches to design efficient, scalable, and innovative software solutions**
 
 - 📫 How to reach me **vemulapativeena@gmail.com**
 
