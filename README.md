@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Veena</h1>
-<h3 align="center">Python and AI Enthusiast</h3>
+<h3 align="center">Data Analytics & AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vemulapativeena&label=Profile%20views&color=0e75b6&style=flat" alt="vemulapativeena" /> </p>
 
-- 🌱**Computer Science Engineer skilled in problem-solving and passionate about leveraging technology and data-driven approaches to design efficient, scalable, and innovative software solutions**
+- 🌱 Computer Science Engineer skilled in problem-solving and passionate about leveraging technology and data-driven approaches to design efficient, scalable, and innovative software solutions
 
 - 📫 How to reach me **vemulapativeena@gmail.com**
 
